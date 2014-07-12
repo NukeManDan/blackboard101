@@ -1,4 +1,7 @@
-# Python 2.7.6. WBN Calling exchange APIs. 
+#!/usr/local/bin/python
+
+# Python 2.7.6. WBN Calling exchange APIs.
+
 import time, json, requests
 """
 Some api pages

@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # Python 2.7.6. WBN Calling exchange APIs. 
 import time, json, requests
 """
